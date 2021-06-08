@@ -1,12 +1,12 @@
 {
   "name": "con-req",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "A simple console based HTTP client.",
   "main": "./src/index.js",
   "scripts": {
     "start": "node ./src/index.js"
   },
-  "keywords": [],
+  "keywords": [ "cli", "api", "client" ],
   "author": "",
   "license": "ISC",
   "type": "module",
